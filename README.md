@@ -1,10 +1,10 @@
 # PCWK.MARKDOWN
 ### 7. 하이퍼링크  
 [링크텍스트](링크URL "설명문구")
-[다음카페](https://www.cafe.daum.net/pcwk "RPA CAFE")
+[다음카페](https://cafe.daum.net/pcwk "RPA CAFE")
 
 
-### 6. 가로선  
+### 6. 가로선(-또는 *3개 사용)  
 ---  
 ***  
 ---  
